@@ -1,0 +1,21 @@
+.div1{
+    height: 20px;
+    width: 30px;
+    background-color: aqua;
+    transition-duration:2s;
+
+}
+.div1:hover{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+.img{
+    height: 10px;
+    width: 20px;
+    transition-duration: 2s;
+}
+.img:hover{
+    height: auto20px;
+    width: 50px;
+}

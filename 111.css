@@ -1,0 +1,20 @@
+.img{
+    height: 120px;
+    width: 120px;
+    transition-duration: 2s;
+    animation-name: peea;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes peea{
+ 20%{      
+    height:200px;
+    width:100px;
+    float:left
+}
+40%{
+    height:100px;
+    width:150px;
+    float:right;
+}
+}

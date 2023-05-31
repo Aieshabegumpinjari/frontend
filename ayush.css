@@ -1,0 +1,17 @@
+h2{
+    padding-left: 200px;
+    padding-top: 100px ;
+    height: 200px;
+    width:500px;
+    border: solid 10px violet;
+    border-style:dashed ;
+    border-right-style: dotted;
+    border-left: 0cqi;
+    border-top-right-radius: 50px;
+    }
+    img{
+        padding-left: 100px;
+        height: 100px;
+        width: 100px;
+        border: solid 10px blanchedalmond;
+    }

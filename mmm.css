@@ -1,0 +1,14 @@
+form{
+    background-color: aquamarine;
+    margin-left:5cm ;
+    border-style: double;
+    width:6cm
+    padding: 10px
+}
+body{
+    background-image:url(https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fc47f6830-9292-11ed-b04f-b9bf191ef388.jpg?crop=5879%2C3919%2C0%2C0);
+background-size: cover;
+}
+label{
+    margin-right: 2cm;
+}
